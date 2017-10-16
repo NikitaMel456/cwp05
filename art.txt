@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Some title",
+    "text": "textextextetxtetxtetxtetxtetxt",
+    "date": 2020,
+    "author": "I",
+    "commentss": [{
+      "idC": 1,
+      "articleId": 1,
+      "text": "Commetn 1",
+      "date": 2020,
+      "author": "Vasya.MegaProKiller.1999@mail.ru"
+    }]
+  },
+  {
+    "id": 2,
+    "title": "Article 2",
+    "text": "Exal PEtya Cherez Mashy",
+    "date": 10.10,
+    "author": "Igar",
+    "commentss": []
+  }
+]
